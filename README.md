@@ -4,7 +4,7 @@
 
 **Analyze any public GitHub profile in seconds: languages, contribution heatmap, top repos, achievements and a 0-100 developer score.**
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-2ea043?style=for-the-badge&logo=netlify&logoColor=white)](https://YOUR-SITE-NAME.netlify.app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-2ea043?style=for-the-badge&logo=netlify&logoColor=white)](https://gitpulse-analyzer.netlify.app/)
 ![React](https://img.shields.io/badge/React-18-58a6ff?style=for-the-badge&logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-5-a371f7?style=for-the-badge&logo=vite&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-8b949e?style=for-the-badge)
